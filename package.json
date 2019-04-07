@@ -1,7 +1,7 @@
 {
   "name": "html-preload-plugin",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "add preload link for your assets,only support font files so far.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,8 +10,12 @@
     "type": "git",
     "url": "git+https://github.com/legeneek/html-preload-plugin.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "preload",
+    "webpack",
+    "plugin"
+  ],
+  "author": "legeneek",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/legeneek/html-preload-plugin/issues"
